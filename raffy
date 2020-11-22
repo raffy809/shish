@@ -1,4 +1,5 @@
 
 #EXTINF:-1, gg1
 http://185.39.10.88:8081/live/dazn2.m3u8?e=1606067338&st=GxamUfnCt81GJnzbkOMeKw
-
+#EXTINF:-1, gg12
+http://185.39.10.20:8081/live/vch14sd.m3u8?e=1606068381&st=fErFqesNjCN5-qnbBi-nMg
