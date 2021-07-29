@@ -1,2 +1,2 @@
 #EXTINF:-1, aaa1
-https://cdn3.wowza.com/1/WXh4RFNwVFByNVBV/SFIwbk5l/hls/live/playlist.m3u8
+https://download1640.mediafire.com/poewd3i698zg/i422920k5zdh5v2/universal.mp4
